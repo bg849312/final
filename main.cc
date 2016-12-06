@@ -37,7 +37,7 @@ int main()
 
 	   if (charcount > 0) {
 		++linecount;
-		++wordcount;
+		++charcount;
 	   }
     }
    else
